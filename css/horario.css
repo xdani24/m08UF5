@@ -2,3 +2,32 @@
 {
     text-align: center;
 }
+.Espasa
+{
+    background-color: aqua;
+}
+.Carles
+{
+    background-color: red;
+}
+.Bardaji
+{
+    background-color: blueviolet;
+}
+.Montesinos
+{
+    background-color: greenyellow;
+}
+.Tutoria
+{
+    background-color: yellow;
+}
+.Pulido
+{
+    background-color: orange;
+}
+a, p
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
