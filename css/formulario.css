@@ -1,0 +1,26 @@
+h1
+{
+    text-decoration: underline;
+    font-weight: bold;
+}
+legend
+{
+    text-decoration: underline;
+    font-weight: bold;
+}
+#primercuadro
+{
+    background-color:salmon;
+}
+#segundocuadro
+{
+    background-color: green;
+}
+#tercercuadro
+{
+    background-color: pink;
+}
+#cuartocuadro
+{
+    background-color: aqua;
+}
