@@ -1,0 +1,108 @@
+#todo
+{
+    width: 600px;
+    height: 600px;
+    position: relative;
+}
+#cuadro1
+{
+    background-color: green;
+    width: 395px;
+    height: 100px;
+    float: left;
+    
+}
+#cuadro2
+{
+    background-color: olivedrab;
+    width: 200px;
+    height: 100px;
+    float: right;
+    margin-left: 5px;
+}
+#cuadro3
+{
+    background-color: black;
+    width: 195px;
+    height: 195px;
+    float: left;
+    margin-top: 5px;
+}
+#cuadro4
+{
+    background-color: olivedrab;
+    width: 195px;
+    height: 195px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#cuadro5
+{
+    background-color: green;
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 95px;
+    width: 200px;
+    float: right;
+}
+#cuadro6
+{
+    background-color:olivedrab;
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 95px;
+    width: 200px;
+    float: right;
+}
+#cuadro7
+{
+    background-color: green;
+    margin-top: 5px;
+    float: left;
+    width: 395px;
+    height: 95px;
+}
+#cuadro8
+{
+    background-color: black;
+    width: 200px;
+    height: 195px;
+    float: right;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#cuadro9
+{
+    background-color: olivedrab;
+    float: left;
+    margin-top: 5px;
+    width: 395px;
+    height: 95px;
+}
+#cuadro10
+{
+    background-color: green;
+    float: left;
+    width: 195px;
+    height: 95px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+#cuadro11
+{
+    background-color: olivedrab;
+    width: 195px;
+    height: 95px;
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+}
+#cuadro12
+{
+    background-color:olivedrab;
+    height: 95px;
+    width: 200px;
+    float: right;
+    margin-top: 5px;
+}
