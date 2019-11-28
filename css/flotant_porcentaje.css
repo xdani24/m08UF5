@@ -1,0 +1,104 @@
+#todo
+{
+    width: 600px;
+    height: 600px;
+}
+#cuadro1
+{
+    background-color: green;
+    width: 65%;
+    height: 16%;
+    float: left;
+}
+#cuadro2
+{
+    background-color: olivedrab;
+    width: 34%;
+    height: 16%;
+    margin-left: 1%;
+    float: right; 
+}
+#cuadro3
+{
+    background-color: black;
+    float: left;
+    width: 32%;
+    height: 31%;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+#cuadro4
+{
+    background-color: olivedrab;
+    float: left;
+    width: 32%;
+    height: 31%;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+#cuadro5
+{
+    background-color: green;
+    width: 34%;
+    height: 16%;
+    float: right; 
+    margin-top: 1%;
+}
+#cuadro6
+{
+    background-color: olivedrab;
+    width: 34%;
+    height: 14%;
+    float: right; 
+    margin-top: 1%;
+}
+#cuadro7
+{
+    background-color: green;
+    width: 65%;
+    height: 16%;
+    float: left;
+    margin-top: 1%
+}
+#cuadro8
+{
+    background-color: black;
+    float: right;
+    width: 34%;
+    height: 33%;
+    margin-top: 1%;
+}
+#cuadro9
+{
+    background-color: olivedrab;
+    width: 65%;
+    height: 16%;
+    float: left;
+    margin-top: 1%
+}
+#cuadro10
+{
+    background-color: green;
+    width: 32%;
+    height: 15%;
+    float: left; 
+    margin-top: 1%;
+    margin-right: 1%;
+}
+#cuadro11
+{
+    background-color: olivedrab;
+    width: 32%;
+    height: 15%;
+    float: left; 
+    margin-top: 1%;
+    margin-right: 1%;
+}
+#cuadro12
+{
+    background-color: green;
+    width: 34%;
+    height: 15%;
+    float: right; 
+    margin-top: 1%;
+}
