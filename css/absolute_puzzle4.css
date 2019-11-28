@@ -1,0 +1,158 @@
+#todo
+{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    position: relative;
+}
+#cuadro1
+{
+    position: absolute;
+    width: 400px;
+    height: 100px;
+    margin-right: 5px;
+    background-image: url("../imatges/paisaje1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 400px 100px;
+}
+#cuadro2
+{
+    position: absolute;
+    left: 400px;
+    background-color: olivedrab;
+    width: 195px;
+    height: 100px;
+    margin-left: 5px; 
+    background-image: url("../imatges/paisaje2.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#cuadro3
+{
+    position: absolute;
+    background-color: black;
+    width: 200px;
+    height: 195px;
+    margin-top: 5px;
+    top: 100px;
+    margin-right: 5px;
+    background-image: url("../imatges/paisaje2.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#cuadro4
+{
+    position: absolute;
+    background-color: green;
+    width: 195px;
+    height: 295px;
+    margin-top: 5px;
+    top: 100px;
+    left: 205px;
+    background-image: url("../imatges/paisaje4.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: 195px 295px;
+}
+#cuadro5
+{
+    position: absolute;
+    background-color: green;
+    width: 195px;
+    left: 400px;
+    top: 105px;
+    margin-left: 5px;
+    height: 95px;
+    background-image: url("../imatges/paisaje4.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#cuadro6
+{
+    position: absolute;
+    background-color: olivedrab;
+    width: 195px;
+    left: 400px;
+    top: 205px;
+    height: 95px;
+    margin-left: 5px;
+    background-image: url("../imatges/paisaje6.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#cuadro7
+{
+    position: absolute;
+    background-color: green;
+    top: 300px;
+    width: 200px;
+    height: 95px;
+    margin-top: 5px;
+    background-image: url("../imatges/paisaje7.jpg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+#cuadro8
+{
+    position: absolute;
+    background-color: black;
+    top: 295px;
+    width: 195px;
+    height: 195px;
+    margin-top: 10px;
+    left: 405px;
+    background-image: url("../imatges/paisaje7.jpg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#cuadro9
+{
+    position: absolute;
+    background-color: black;
+    top: 400px;
+    width: 200px;
+    height: 195px;
+    margin-top: 5px;
+    background-image: url("../imatges/paisaje6.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: 200px 195px;
+
+}
+#cuadro10
+{
+    position: absolute;
+    background-color: olivedrab;
+    top: 400px;
+    left: 205px;
+    width: 195px;
+    height: 95px;
+    margin-top: 5px;
+    background-image: url("../imatges/paisaje2.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#cuadro11
+{
+    position: absolute;
+    background-color: olivedrab;
+    top: 505px;
+    left: 205px;
+    width: 195px;
+    height: 95px;
+    background-image: url("../imatges/paisaje1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+#cuadro12
+{
+    position: absolute;
+    background-color: green;
+    top: 505px;
+    left: 405px;
+    width: 195px;
+    height: 95px;
+    background-image: url("../imatges/paisaje2.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
