@@ -1,0 +1,93 @@
+#todo
+{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+
+}
+#cabecera
+{
+    width: 100%;
+    height: 10%;
+    border: 1px solid black;
+    background-color: firebrick;
+    position: relative;
+}
+.logo
+{
+    width: 150px;
+    height: 150px;
+    padding-left: 10px;    
+}
+h1
+{
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+#medio
+{
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+    position: relative;
+}
+#izquierda
+{
+    width: 25%;
+    height: 500px;
+    border: 1px solid black;
+    position: absolute;
+    background-color: skyblue;  
+}
+a:hover
+{
+    background-color: yellow;
+}
+#centro
+{
+    border: 1px solid black;
+    position: absolute;
+    left: 25%;
+    width: 50%;
+    height: 500px;
+    background-color: greenyellow;
+}
+.texto
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#derecha
+{
+    border: 1px solid black;
+    background-color: orangered;
+    width: 25%;
+    height: 500px;
+    float: right;
+}
+#pie
+{
+    border: 1px solid black;
+    background-color: mediumvioletred;
+    float: left;
+    width: 100%;
+    height: 100px;
+}
+.pie
+{
+    text-align: center;
+    padding-top: 20px;
+}
+.anuncio
+{
+    width: 350px;
+    height: 450px;
+    padding-left: 70px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
