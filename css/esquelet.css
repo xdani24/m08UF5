@@ -125,11 +125,14 @@ nav a:hover
 
 article, aside
 {
-    
+    text-align: justify;  
+    display: inline-block;
 }
 
 article
 {
+    width: 625px;
+    margin-right: 8px;
 }
 
 .ico_categorie
@@ -139,6 +142,7 @@ article
 
 article p
 {
+    display: inline-block;
 }
 
 

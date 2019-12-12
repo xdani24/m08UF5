@@ -1,0 +1,131 @@
+#ejercicio1
+{
+    margin-top: 0px;
+}
+#primero
+{
+    border: 1px solid green;
+    border-radius: 25px;
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    position: absolute;
+}
+#segundo
+{
+    border-radius: 15px 50px 30px;
+    background-color: green;
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    margin-left: 200px;
+}
+#tercero
+{
+    border-radius: 15px 15px 60px;
+    background-color: green;
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    margin-left: 460px;
+}
+#cuarto
+{
+    border-radius: 40px 15px 20px 40px;
+    background-color: green;
+    width: 250px;
+    height: 150px;
+    float: left;
+    margin-left: 720px;
+}
+
+#quinto
+{
+    background-color: rgb(0, 250, 33,0.2);
+    
+}
+#sexto
+{
+    background-color: rgb(0, 250, 33,0.4);
+    
+}
+#septimo
+{
+    background-color: rgb(0, 250, 33,0.6);
+    
+}
+#octavo
+{
+    background-color: rgb(0, 250, 33,0.8);
+}
+#noveno
+{
+    background-color: rgb(0, 250, 33,1);
+}
+#decimo
+{
+    background-image: linear-gradient(yellow, blue);
+    height: 150px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: normal;
+}
+#onceavo
+{
+    background-image: linear-gradient(to right, pink, red);
+    height: 150px;
+    vertical-align: middle;
+}
+h1
+{
+    text-shadow: 2px 2px;
+    font-family: 'Lilita One', cursive;
+
+}
+h2
+{
+    text-shadow: 2px 2px blue;
+    font-family: 'Lilita One', cursive;
+
+}
+h3
+{
+    color: greenyellow;
+    text-shadow: 2px 2px 4px red, 0 0 30px blue, 0 0 5px gray;
+    font-family: 'Lilita One', cursive;
+
+}
+#decimosegundo
+{
+    box-shadow: 15px 15px;
+    background-color: yellow;
+    height: 100px;
+    width: 400px;
+    text-align: center;
+    vertical-align: auto;
+    margin-bottom: 10px;
+}
+#decimotercero
+{
+    box-shadow: 10px 10px 5px gray;
+    height: 100px;
+    width: 400px;
+    background-color: yellow;
+    text-align: center;
+}
+.illenium
+{
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+.container
+{
+    padding: 10px;
+}
+@font-face
+{
+    font-family: 'Lilita One', cursive;
+    src: url(LilitaOne-Regular.ttf)
+}
