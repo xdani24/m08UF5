@@ -129,3 +129,102 @@ h3
     font-family: 'Lilita One', cursive;
     src: url(LilitaOne-Regular.ttf)
 }
+#decimocuarto
+{
+    height: 100px;
+    width: 100px;
+    transform:translate(50px, 100px);
+    border: 1px solid black;
+    background-color: red;
+    transition-duration: 2s;
+}
+#decimoquinto
+{
+    transform: rotate(20deg);
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: red;
+    position: absolute;
+    margin-left: 200px;
+    transition-duration: 2s;
+
+}
+#decimosexto
+{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: red;
+    position: absolute;
+    margin-left: 350px;
+    transform: scale(1,2);
+    transition-duration: 2s;
+}
+#onceavo1
+{
+    background-image: linear-gradient(to right, pink, red);
+    height: 150px;
+    vertical-align: middle;
+    margin-top: 250px;
+    transform: matrix(1, -0.3, 0, 1, 0, 0);
+    transition-duration: 2s;
+    width: 400px;
+}
+#decimoseptimo
+{
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition duration: 1s;
+    border-radius: 1px solid black;
+    margin-top: 100px;
+    border-radius: 5px 5px 5px 5px;
+
+}
+#decimoseptimo:hover
+{
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+    border-radius: 5px 5px 5px 5px;
+}
+#decimooctavo
+{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    animation-name: ejercicio8;
+    animation-duration: 4s;
+    margin-top: 50px;
+    background-color: red;
+    animation-iteration-count: 3;
+}
+@keyframes ejercicio8
+{
+    0%{background-color: red;}
+    25% {background-color: green;}
+    50% {background-color: yellow;}
+    75% {background-color: blue;}
+    100% {background-color: red;}
+}
+#decimonoveno
+{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    animation-name: ejercicio9;
+    animation-duration: 4s;
+    background-color: red;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    position: relative;
+}
+@keyframes ejercicio9 
+{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:greenyellow; left:200px; top:0px;}
+    50%  {background-color:yellow; left:200px; top:200px;}
+    75%  {background-color:blue; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
