@@ -1,0 +1,42 @@
+.div1
+{
+    float: left;
+    background-color: pink;
+    width: 30%;
+    font-size: 30px;
+    
+}
+.div2
+{
+    float: left;
+    background-color: skyblue;
+    width: 70%;
+    font-size: 30px;
+}
+div
+{
+    background-color: aqua;
+    font-size: 50px;
+
+}
+p
+{
+    font-size: 30px;
+}
+@media screen and (max-width: 768px) 
+{
+    #div1
+    {
+        width: 100%;
+        background-color: red;
+    }
+    #div2
+    {
+        width: 100%;
+    }
+    h1{
+        font-size: 35px;
+    }
+}
+@media screen and (max-width: 576px)
+{} 
