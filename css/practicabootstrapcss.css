@@ -24,43 +24,61 @@
     width:1000px;
     height: 150px;
 }
-.col-sm1
+.col-md-9 
 {
     width:850px;
     background-color: pink;
     height:200px;
+    padding: 10px;
 }
-.col-sm2
+.col-md-3 
 {
     width:260px;
     background-color: orange;
     height:405px;
+    padding: 10px;
+
 }
 .col-sm3
 {
     width:275px;
     background-color: lightblue;
     height:405px;
+    padding: 10px;
+
 }
 .col-sm4
 {
     width:275px;
     background-color: lightgoldenrodyellow;
     height:405px;
+    padding: 10px;
+
 }
 .col-sm5
 {
     width:275px;
     background-color: lightblue;
     height:405px;
+    padding: 10px;
+
 }
 .col-sm6
 {
     width:275px;
     background-color: lightgoldenrodyellow;
     height:405px;
+    padding: 10px;
+
 }
 footer
 {
     background-color: green;
+}
+p
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
