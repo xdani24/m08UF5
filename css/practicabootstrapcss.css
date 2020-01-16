@@ -1,3 +1,7 @@
+body
+{
+    font-size: 1,8em;
+}
 #div1
 {
     width: 1110px;
@@ -24,21 +28,22 @@
     width:1000px;
     height: 150px;
 }
-.col-md-9 
+.col-9 
 {
     width:850px;
     background-color: pink;
     height:200px;
     padding: 10px;
 }
-.col-md-3 
+
+.col-3 
 {
     width:260px;
     background-color: orange;
     height:405px;
     padding: 10px;
-
 }
+
 .col-sm3
 {
     width:275px;
@@ -74,6 +79,7 @@
 footer
 {
     background-color: green;
+    font-size: 2em;
 }
 p
 {
@@ -81,4 +87,16 @@ p
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
+}
+h2
+{
+    text-align: center;
+}
+@media screen and (max-width: 768px) 
+{
+    footer 
+    {
+        font-size: 1em;
+        font-style: bold;
+    }
 }
