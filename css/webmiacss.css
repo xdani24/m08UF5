@@ -1,0 +1,136 @@
+html
+{
+    width: 100%;
+    height: 100%;
+}
+#principal
+{
+    text-align: center;
+    background-color: lightsalmon;
+}
+h1
+{
+    font-family: 'Gochi Hand';
+    font-size: 7em;
+
+}
+@font-face
+{
+    font-family: 'Gochi Hand';   
+}
+/*#background
+{
+    width: 100%;
+    height: 100%;
+    position:fixed;
+}*/
+body
+{
+  
+    background-color: rgba(255, 0, 0, 0.26);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+    
+    
+}
+   
+#segunda
+{
+    border: 1px solid black;
+    
+}
+#dani
+{
+    margin-left:-1500px;
+    margin-top: -150px;
+}
+
+#twitter
+{
+    float: left;
+    margin-left: 30px;
+}
+#facebook
+{
+    margin-left: 30px;
+    float: left;
+}
+#vimeo
+{
+    margin-left: 30px;
+    float: left;
+}
+h1
+{
+    text-align: center;
+}
+#central
+{
+    width:1100px;
+    height: 1000px;
+    background-color:  rgba(128, 94, 0, 0.226);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    
+}
+h3
+{
+    font-size: 4em;
+    font-family: 'Luckiest Guy', cursive;
+    margin-left:20px;
+    margin-bottom: 30px;
+
+}
+h2
+{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+h4
+{
+    font-family: 'Handlee', cursive;
+    font-size: 1.3em;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.carousel-item
+{
+    width: 1100px;
+    height: 500px;
+    text-align: center;
+}
+.mdno
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sickboy
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;   
+    float: left;
+
+}
+.wwj
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+}
