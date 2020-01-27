@@ -18,12 +18,7 @@ h1
 {
     font-family: 'Gochi Hand';   
 }
-/*#background
-{
-    width: 100%;
-    height: 100%;
-    position:fixed;
-}*/
+
 body
 {
   
@@ -78,10 +73,12 @@ h1
 }
 h3
 {
-    font-size: 4em;
-    font-family: 'Luckiest Guy', cursive;
+    font-size: 2em;
+    font-family:'Permanent Marker', cursive; 
     margin-left:20px;
     margin-bottom: 30px;
+    margin-top: 20px;
+    text-align: center;
 
 }
 h2
@@ -112,16 +109,16 @@ h4
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
+  
 }
 .sickboy
 {
     height: 300px;
     width: 300px;
-    border-radius: 30px;
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;   
-    float: left;
+    border-radius: 30px;   
+    position: absolute;
+    margin-top: 350px;
+    margin-left: -320px;
 
 }
 .wwj
@@ -129,8 +126,70 @@ h4
     height: 300px;
     width: 300px;
     border-radius: 30px;
-    margin-top: 20px;
-    margin-left: 20px;
+    position: absolute;
+    margin-top: 680px;
+    margin-left: -320px;
+
+}
+.texto1
+{
+    height: 240px;
+    width: 600px;
+    background-color:  rgba(7, 12, 17, 0.733);
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -280px;
+    text-align: justify;
+}
+h5
+{
+    font-family: 'Handlee', cursive;
+    font-size: 1.3em;
+    margin-top: 30px;
+    margin-bottom: 20px;
     margin-right: 20px;
-    float: left;
+    margin-left: 20px;
+    color: white;
+}
+.texto2
+{
+    height: 240px;
+    width: 600px;
+    background-color:  rgba(7, 12, 17, 0.733);
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 50px;
+    text-align: justify;
+}
+.texto3
+{
+    height: 260px;
+    width: 600px;
+    background-color:  rgba(7, 12, 17, 0.733);
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 380px;
+    text-align: justify;
+}
+h6
+{
+    font-size: 2em;
+    font-family:'Permanent Marker', cursive; 
+    margin-left:20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+#central2
+{
+    width:1100px;
+    height: 2000px;
+    background-color:  rgba(128, 94, 0, 0.226);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    border: 1px solid black;
 }
